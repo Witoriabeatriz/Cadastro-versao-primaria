@@ -42,8 +42,5 @@ Você pode personalizar este projeto de acordo com suas necessidades, modificand
 
 ## Autor
 
-<<<<<<< HEAD
-Este projeto foi criado por Witória Beatriz Dos Santos
-=======
-Este projeto foi criado por Witória Beatriz Dos Santos 
->>>>>>> dc467acac30f768559117858f580caf431c1a2c7
+Este projeto foi criado por Witória Beatriz Dos Santos.
+
