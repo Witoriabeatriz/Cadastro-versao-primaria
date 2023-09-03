@@ -1,7 +1,7 @@
 
 # Projeto de Validação de Cadastro
 
-<img src="imgs/Funcionando.cadastro1.gif">
+<img src="imgs/cadastro1.gif">
 
 Foi desenvolvido no primeiro trimestre como a versão primária do projeto.
 
