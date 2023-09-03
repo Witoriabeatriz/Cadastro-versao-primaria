@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+
+.data{
+    width: 170px;
+    height: 16px;
+}
+
+body {
+    padding: 30px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #da7d7d;
+    display: flex;
+    font-family: Poppins;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+    border: 0;
+}
+
+.container {
+    background-color: #fafdfb;
+    border-radius: 5px;
+    border: 2px;
+    width: 450px;
+    max-width: 100%;
+}
+h1{
+    color:#da7d7d
+}
