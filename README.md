@@ -1,5 +1,5 @@
 
-# Projeto de Validação de Cadastro
+#✔️ Projeto de Validação de Cadastro
 
 <img src="imgs/cadastro1.gif">
 
