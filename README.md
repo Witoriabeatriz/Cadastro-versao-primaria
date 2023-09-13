@@ -21,7 +21,8 @@ O projeto consiste em três arquivos principais:
 3. **cadastro.css**: O arquivo CSS que estiliza o formulário.
 
 ## ⌨ Ferramentas utilizadas
-1. **git**:
+Este projeto foi utilizado as seguintes ferramentas:
+1. **git**: 
 2. **git hub**:
 3. **visual Studio Code**:
 4. **array**:
