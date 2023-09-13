@@ -20,6 +20,12 @@ O projeto consiste em três arquivos principais:
 
 3. **cadastro.css**: O arquivo CSS que estiliza o formulário.
 
+## ⌨ Ferramentas utilizadas
+1. **git**:
+2. **git hub**:
+3. **visual Studio Code**:
+4. **array**:
+
 ## 👾 Funcionalidade
 - Validação de campos obrigatórios (todos os campos são obrigatórios).
 - Verificação de senha: as senhas devem corresponder.
