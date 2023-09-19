@@ -1,12 +1,14 @@
 
 ## 📃 Validação de Cadastro
 
-<img src="imgs/cadastro1.gif">
-
 ## 📌 Descrição
 Foi desenvolvido no primeiro trimestre como a versão primária do projeto.
 
 **Observação:** Já temos a segunda versão deste projeto pronta. Você pode conferir a segunda versão [aqui](https://witoriabeatriz.github.io/Cadastro-versao-final/).
+
+## 🎬 Capa do projeto
+
+<img src="imgs/cadastro1.gif">
 
 ## ✔️ Introdução
 Este projeto concentra-se na verificação de campos preenchidos para cadastro de usuários com validação de entrada em JavaScript. O objetivo deste projeto é criar um formulário de cadastro com campos obrigatórios e realizar validações para garantir que os dados inseridos sejam válidos antes de enviar o formulário.
