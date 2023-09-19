@@ -55,9 +55,8 @@ Este projeto foi utilizado as seguintes ferramentas:
 ## 🖌️Personalização
 Você pode personalizar este projeto de acordo com suas necessidades, modificando o HTML, CSS e JavaScript conforme necessário.
 
-## ✒️ Autor
-Este projeto foi criado por Witória Beatriz Dos Santos.
-
+## ✒ Autor
+Este projeto foi criado por [Witória Beatriz Dos Santos](https://github.com/Witoriabeatriz)
 
  
 
