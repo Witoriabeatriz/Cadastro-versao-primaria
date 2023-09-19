@@ -40,6 +40,9 @@ O projeto consiste em três arquivos principais:
 
 
 ## 🤖 Tecnologias Utilizadas
+* Html 5
+* Javascript
+* Css
 
 ## ⌨ Ferramentas utilizadas
 
