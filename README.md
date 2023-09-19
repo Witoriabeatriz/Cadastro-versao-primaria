@@ -12,8 +12,10 @@ Projeto realizado para desenvolver o aprendizado em validações de campos em um
 * [Tecnologias utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-tecnologias-utilizadas)  
 * [Ferramentas utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-ferramentas-utilizadas)  
 * [Funcionalidades](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-funcionalidade)
-* [Instruções de uso](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#%EF%B8%8F-como-usar)
-
+* [Instruções de uso](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#%EF%B8%8F-instru%C3%A7%C3%B5es-de-uso)
+* [Personalização](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#%EF%B8%8Fpersonaliza%C3%A7%C3%A3o)
+* [Autor](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-autor)
+ 
 ## 🖥️ Capa do projeto
 
 <img src="imgs/cadastro1.gif">
