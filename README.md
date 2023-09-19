@@ -67,7 +67,7 @@ Este projeto foi utilizado as seguintes ferramentas:
 
 2. Preencha o formulário de cadastro.
 
-3. Clique no botão `ACESSAR`para enviar o formulário.
+3. Clique no botão `ACESSAR` para enviar o formulário.
 
 4. As mensagens de erro ou sucesso serão exibidas conforme apropriado.
 
