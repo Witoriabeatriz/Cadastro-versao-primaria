@@ -5,7 +5,7 @@ Projeto realizado para desenvolver o aprendizado em validações de campos em um
 
 ## 📈 Índice 
 * [Validação de Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-valida%C3%A7%C3%A3o-de-cadastro)  
-* [Capa do projeto]()  
+* [Capa do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#%EF%B8%8F-capa-do-projeto)  
 * [Descrição]()  
 * [Introdução]()  
 * [Composição do projeto]()  
