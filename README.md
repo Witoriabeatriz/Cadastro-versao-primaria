@@ -11,7 +11,7 @@ Projeto realizado para desenvolver o aprendizado em validações de campos em um
 * [Composição do projeto]()  
 * [Tecnologias utilizads]()  
 * [Ferramentas utilizadas]()  
-* [Funcionalidads]()  
+* [Funcionalidades]()  
 
 ## 🖥️ Capa do projeto
 
