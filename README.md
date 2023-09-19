@@ -3,15 +3,16 @@
 
 * Projeto realizado para desenvolver o aprendizado em validações de campos em um site.
 
+## 🖥️ Capa do projeto
+
+<img src="imgs/cadastro1.gif">
+
 ## 📌 Descrição
 
 * Foi desenvolvido no primeiro trimestre como a versão primária do projeto.
 
 * **Observação:** Já temos a segunda versão deste projeto pronta. Você pode conferir a segunda versão [aqui](https://witoriabeatriz.github.io/Cadastro-versao-final/).
 
-## 🖥️ Capa do projeto
-
-<img src="imgs/cadastro1.gif">
 
 ## 📝 Introdução
 
