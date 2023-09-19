@@ -3,6 +3,16 @@
 
 * Projeto realizado para desenvolver o aprendizado em validações de campos em um site.
 
+## 📈 Índice 
+[Validação de Cadastro]()
+[Caoa do projeto]()
+[Descrição]()
+[Introdução]()
+[Composição do projeto]()
+[Tecnologias utilizads]()
+[Ferramentas utilizadas]()
+[Funcionalidads]()
+
 ## 🖥️ Capa do projeto
 
 <img src="imgs/cadastro1.gif">
@@ -18,7 +28,7 @@
 
 Este projeto concentra-se na verificação de campos preenchidos para cadastro de usuários com validação de entrada em JavaScript. O objetivo deste projeto é criar um formulário de cadastro com campos obrigatórios e realizar validações para garantir que os dados inseridos sejam válidos antes de enviar o formulário.
 
-## 🤖 Tecnologias Utilizadas
+## 🛠️ Composição do projeto 
 
 O projeto consiste em três arquivos principais:
 
@@ -27,6 +37,9 @@ O projeto consiste em três arquivos principais:
 * cadastro.js: Este arquivo JavaScript contém as funções de validação do formulário.
 
 * cadastro.css: O arquivo CSS que estiliza o formulário.
+
+
+## 🤖 Tecnologias Utilizadas
 
 ## ⌨ Ferramentas utilizadas
 
