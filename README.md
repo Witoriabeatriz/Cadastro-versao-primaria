@@ -4,6 +4,7 @@
 Projeto realizado para desenvolver o aprendizado em validações de campos em um site.
 
 ## 📈 Índice 
+* [Segunda versão](https://witoriabeatriz.github.io/Cadastro-versao-final/)
 * [Validação de Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-valida%C3%A7%C3%A3o-de-cadastro)  
 * [Capa do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#%EF%B8%8F-capa-do-projeto)  
 * [Descrição](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-descri%C3%A7%C3%A3o)  
@@ -72,7 +73,14 @@ Este projeto foi utilizado as seguintes ferramentas:
 4. As mensagens de erro ou sucesso serão exibidas conforme apropriado.
 
 ## 🖌️Personalização
-Você pode personalizar este projeto de acordo com suas necessidades, modificando o HTML, CSS e JavaScript conforme necessário.
+Você pode personalizar este projeto de acordo com suas necessidades, modificando o HTML, CSS e JavaScript conforme necessário.  
+
+## 🔗 Fontes consultadas
+1. [Chat gpt](https://chat.openai.com/) - Como fazer um bom README    
+2. [GitHub Docs](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Sintaxe básica de gravação e formatação no GitHub    
+3. [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github    
+4. [Dio.me](https://www.dio.me/articles/personalize-o-readme-no-github) - Como inserir imagem no README     
+5. [Medium.com](https://medium.com/@afonsopacifer/pensando-em-urls-no-github-3517d97249d0) - Pensando em URLs no Github   
 
 ## ✒ Autor
 Este projeto foi criado por [Witória Beatriz Dos Santos](https://github.com/Witoriabeatriz)
