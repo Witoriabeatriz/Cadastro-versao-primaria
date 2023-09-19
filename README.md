@@ -6,12 +6,13 @@ Projeto realizado para desenvolver o aprendizado em validações de campos em um
 ## 📈 Índice 
 * [Validação de Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-valida%C3%A7%C3%A3o-de-cadastro)  
 * [Capa do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#%EF%B8%8F-capa-do-projeto)  
-* [Descrição]()  
-* [Introdução]()  
-* [Composição do projeto]()  
-* [Tecnologias utilizadas]()  
-* [Ferramentas utilizadas]()  
-* [Funcionalidades]()  
+* [Descrição](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-descri%C3%A7%C3%A3o)  
+* [Introdução](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-introdu%C3%A7%C3%A3o)  
+* [Composição do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#%EF%B8%8F-composi%C3%A7%C3%A3o-do-projeto)  
+* [Tecnologias utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-tecnologias-utilizadas)  
+* [Ferramentas utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-ferramentas-utilizadas)  
+* [Funcionalidades](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#-funcionalidade)
+* [Instruções de uso](https://github.com/Witoriabeatriz/Cadastro-versao-primaria/tree/main#%EF%B8%8F-como-usar)
 
 ## 🖥️ Capa do projeto
 
@@ -40,9 +41,9 @@ O projeto consiste em três arquivos principais:
 
 
 ## 🤖 Tecnologias Utilizadas
-* HTML 5
-* JAVASCRIPT 
-* CSS
+* html 5
+* javascript
+* css
 
 ## ⌨ Ferramentas utilizadas
 
@@ -59,7 +60,7 @@ Este projeto foi utilizado as seguintes ferramentas:
 * Exibição de mensagens de erro caso os campos não sejam preenchidos corretamente.
 - Exibição de mensagem de sucesso quando o cadastro é realizado com sucesso.
 
-## 🖥️ Como Usar
+## 🖥️ Instruções de uso
 1. Abra o arquivo `index.html` em um navegador da web.
 
 2. Preencha o formulário de cadastro.
