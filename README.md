@@ -26,7 +26,7 @@ Projeto realizado para desenvolver o aprendizado em validações de campos em um
 
 ## 📝 Introdução
 
-Este projeto concentra-se na verificação de campos preenchidos para cadastro de usuários com validação de entrada em JavaScript. O objetivo deste projeto é criar um formulário de cadastro com campos obrigatórios e realizar validações para garantir que os dados inseridos sejam válidos antes de enviar o formulário.
+* Este projeto concentra-se na verificação de campos preenchidos para cadastro de usuários com validação de entrada em JavaScript. O objetivo deste projeto é criar um formulário de cadastro com campos obrigatórios e realizar validações para garantir que os dados inseridos sejam válidos antes de enviar o formulário.
 
 ## 🛠️ Composição do projeto 
 
