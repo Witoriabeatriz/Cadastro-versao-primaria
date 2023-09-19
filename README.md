@@ -1,12 +1,13 @@
 
 ## 📃 Validação de Cadastro
+* Projeto realizado para desenvolver o aprendizado em validações de campos de um site.
 
 ## 📌 Descrição
 Foi desenvolvido no primeiro trimestre como a versão primária do projeto.
 
 **Observação:** Já temos a segunda versão deste projeto pronta. Você pode conferir a segunda versão [aqui](https://witoriabeatriz.github.io/Cadastro-versao-final/).
 
-## 🎬 Capa do projeto
+## 🖥️ Capa do projeto
 
 <img src="imgs/cadastro1.gif">
 
