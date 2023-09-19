@@ -1,17 +1,17 @@
 
 ## 📃 Validação de Cadastro
 
-* Projeto realizado para desenvolver o aprendizado em validações de campos em um site.
+Projeto realizado para desenvolver o aprendizado em validações de campos em um site.
 
 ## 📈 Índice 
-[Validação de Cadastro]()  
-[Caoa do projeto]()  
-[Descrição]()  
-[Introdução]()  
-[Composição do projeto]()  
-[Tecnologias utilizads]()  
-[Ferramentas utilizadas]()  
-[Funcionalidads]()  
+* [Validação de Cadastro]()  
+* [Caoa do projeto]()  
+* [Descrição]()  
+* [Introdução]()  
+* [Composição do projeto]()  
+* [Tecnologias utilizads]()  
+* [Ferramentas utilizadas]()  
+* [Funcionalidads]()  
 
 ## 🖥️ Capa do projeto
 
