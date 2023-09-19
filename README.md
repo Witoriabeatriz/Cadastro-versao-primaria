@@ -18,7 +18,7 @@ Projeto realizado para desenvolver o aprendizado em validações de campos em um
  
 ## 🖥️ Capa do projeto
 
-<img src="imgs/cadastro1.gif">
+<img src="imgs/funcionando.gif">
 
 ## 📌 Descrição
 
