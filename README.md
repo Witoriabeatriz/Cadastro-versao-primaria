@@ -1,5 +1,5 @@
 
-## 📃 Cadastro
+## 📃 Validação de Cadastro
 
 <img src="imgs/cadastro1.gif">
 
